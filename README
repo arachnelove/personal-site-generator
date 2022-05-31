@@ -1,0 +1,7 @@
+# a personal static site generator
+
+a simplish c program to help me author a personal site. should be generic enough for someone else to use, though you'd have to be a little bit of a weirdo.
+
+what i'm after is flexibility, something like a digital garden but with areas of structure like a blog or project page or bespoke things aside. styling should be easy to facilitate experimentation. advanced customization and community building around that would be cool, probably via some sort of plugin architecture.
+
+the basic idea is to have easy markup for text and interlinking, and let the structure emerge from the site source itself. things may look like a wiki, but maybe ill throw in some surprises.
